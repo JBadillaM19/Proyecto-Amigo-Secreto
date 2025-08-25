@@ -53,10 +53,10 @@ function sortearAmigo() {
      
     //EXTRA
     //Eliminar el nombre sorteado del array para que no vuelva a ser seleccionado en un nuevo sorteo con los mismos nombres
-    /*nombresDeAmigos.splice(indiceAleatorio, 1);*/
+    nombresDeAmigos.splice(indiceAleatorio, 1);
 
     //Actualiza la lista visible en la página para ver que el nombre ya no está porque ya fue sorteado
-    /*mostrarAmigos();*/
+    mostrarAmigos();
     
 }   
 
