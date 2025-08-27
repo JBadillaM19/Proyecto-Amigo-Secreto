@@ -6,9 +6,9 @@
 ![HTML](https://camo.githubusercontent.com/e06444f0f821325acecd72a9a02c76494ae2d285f8c5dd55ab9667c8fcef3540/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 ![CSS](https://camo.githubusercontent.com/932fbe5ffd97a8ff473211cd828d8ddafe1cd7a2359fe42866089578f7dfd09a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 
+🚨**Prueba el proyecto:** [Amigo Secreto](https://jbadillam19.github.io/Proyecto-Amigo-Secreto/) 
 
-
-## DESCRIPCIÓN ✍🏼 
+## DESCRIPCIÓN 💡 
 "Amigo Secreto" es una página web interactiva con la función de sortear un nombre aleatorio después de agregar a los participantes necesarios.
 Con el objetivo de usarlo para eventos con amigos, como en un intercambio de regalos secreto.
 
@@ -26,7 +26,7 @@ Con el objetivo de usarlo para eventos con amigos, como en un intercambio de reg
 - No requiere instalación de dependencias
 - Descarga los archivos del repositorio
 
-## Pasos para Usar la Aplicación
+## 🖐🏼 Pasos para Usar la Aplicación
 
 1. **📂 Abrir el Proyecto**
 
@@ -34,7 +34,7 @@ Con el objetivo de usarlo para eventos con amigos, como en un intercambio de reg
 
 3. **👤 Agregar Participantes**
 - Escribe el nombre de cada amigo en el campo de texto
-- Haz clic en el botón "Añadir" o presiona Enter
+- Haz clic en el botón "Añadir"
 - Repite el proceso para todos los participantes
 
 3. **🎲 Realizar el Sorteo** 
@@ -43,6 +43,13 @@ Con el objetivo de usarlo para eventos con amigos, como en un intercambio de reg
 - ¡El sistema seleccionará un participante al azar!
 
 
-## Aspectos a Mejorar
+## 📎 Posibles Aspectos a Mejorar 💭
 
+- Agregar botón y funcionalidad para reiniciar el campo de participantes
+- Historial de sorteos recientes
+- Gestión de nombres repetidos
+- Agregar condición en caso de un único nombre pendiente
+- Agregar nombres por medio de "Enter"
 
+## 🧍🏼‍♂️ Autor ✍🏼
+// **Josué Badilla Madrigal** //
